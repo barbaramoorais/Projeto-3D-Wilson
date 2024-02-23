@@ -10,7 +10,6 @@
     --rosaforte: #F52AC6;
     --botao-inativo: rgba(196, 124, 255, 1);
     --botao-ativo: rgba(182, 108, 255, 0.9);
-
 }
 body{
     background-color: var(--roxo);
@@ -32,5 +31,5 @@ body{
     font-size: 32px;
 }
 .titulo-principal span{
-    color: var(--rosabb);
+    color: var(--rosaforte);
 }
