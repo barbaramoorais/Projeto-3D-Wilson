@@ -14,7 +14,7 @@
 body{
     background-color: var(--roxo);
     color: var(--branco);
-    font-family: 'Chakra Petch','sans-serif';
+    font-family: 'Chakra Petch','Sans-serif';
 }
 .conteudo-principal{
     display:flex;
@@ -33,3 +33,45 @@ body{
 .titulo-principal span{
     color: var(--roxoclaro);
 }
+.botao{
+    font-family: 'Chakra Petch','Sans-Serif';
+    background-color: var(--botao-inativo);
+    color: var(--branco);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
