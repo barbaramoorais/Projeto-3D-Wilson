@@ -17,4 +17,4 @@ const tempoobjetivo1 = new Date ("2024-12-01");
 let tempoAtual = new Date ();
 
 
-contadores[0].textContent = "Contagem regressiva";
+contadores[0].textContent =tempoobjetivo1 - tempoAtual;
