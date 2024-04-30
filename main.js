@@ -31,7 +31,7 @@ function calculaTempo(tempoObjetivo1){
     let segundos = Math.floor(tempofinal / 1000);
     let minutos = Math.floor(segundos / 60);
     let horas = Math.floor (minutos / 60);
-    let dis = Math.floor (horas / 24);
+    let dias = Math.floor (horas / 24);
        
        segundos %= 60;
        minutos %= 60;
