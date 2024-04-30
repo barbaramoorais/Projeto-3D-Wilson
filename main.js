@@ -13,7 +13,10 @@ for (let i = 0; i<botoes.length; i++){
     }
 }
 const contadores = document.querySelectorAll(".contador");
-const tempoobjetivo1 = new Date ("2024-12-01T00:00:00");
+const tempoobjetivo1 = new Date ("2024-12-01T23:59:59");
+const tempoobjetivo2 = new Date ("2024-12-01T23:59:59");
+const tempoobjetivo3 = new Date ("2024-12-01T23:59:59");
+const tempoobjetivo4 = new Date ("2024-12-01T23:59:59");
 
 function calculaTempo(tempoobjetivo1){
     let tempoAtual = new Date ();
